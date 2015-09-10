@@ -13,3 +13,14 @@
         0 0 100px #00FFFF,
         0 0 150px #00FFFF;
 }
+
+.chatcontainer{
+    background-color:white;
+    width:20em;
+}
+
+.messagecontainer{
+    height:40em;
+    overflow-y:scroll;
+    overflow-x:hidden;
+}
